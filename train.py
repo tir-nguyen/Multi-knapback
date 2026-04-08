@@ -2,8 +2,6 @@
 Training & Evaluation Script
 So sánh: DQN | DQN+Transformer | Greedy
 
-Chạy:
-    python train.py
 """
 
 import numpy as np
